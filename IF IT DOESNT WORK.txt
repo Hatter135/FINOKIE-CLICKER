@@ -1,0 +1,4 @@
+I used python v3.10.1, meaning you need to use this version for my code to work. Its something to do with pygame which is the program within my code that plays the sounds.
+
+you can download python 3.10.1 here:
+https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe
